@@ -1,4 +1,4 @@
-<p align = "center"><img src = "images/vuejs.png" alt = "vue logo"></p>
+<p align = "center"><img src = "vuejs.png" alt = "vue logo"></p>
 
 ## Knowledge Recap
 * [Question 1](#question-1)
