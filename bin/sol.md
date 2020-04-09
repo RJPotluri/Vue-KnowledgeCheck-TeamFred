@@ -1,4 +1,4 @@
-<p align = "center"><img src = "vuejs.png" alt = "vue logo"></p>
+<p align = "center"><img src = "../vuejs.png" alt = "vue logo"></p>
 
 ## Quiz Solutions
 Here are the solutions to the knowledge assessment:
