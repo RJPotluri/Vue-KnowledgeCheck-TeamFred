@@ -1,6 +1,7 @@
+## Knowledge Recap
 <p align = "center"><img src = "vuejs.png" alt = "vue logo"></p>
 
-## Knowledge Recap
+## Contents
 * [Question 1](#question-1)
 * [Question 2](#question-2)
 * [Question 3](#question-3)
